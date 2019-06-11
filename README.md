@@ -1,4 +1,4 @@
-# assignment01
+# assignment10
 Week 10: SEO and Analytics
 
 OBJECTIVE: To create a responsive website for myself :
