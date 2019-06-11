@@ -22,5 +22,6 @@ e). Having questions as title name to spark curiosity from the viewer.
 
 4. To index your webpages as this will increase your traffic by doing google indexing API.
 5. The importance of the first paragraph of content as google uses thses for snippets;
-6. The use of images to improve google ranking (host images on your domain, not on some other server);
+6. The use of images to improve google ranking (host images on your domain, not on some other server);and 
+7. To utilize google analytics and heat map to understand user/visitor profile and the contents seen the most and least as well.
 
